@@ -1676,7 +1676,7 @@ body .woocommerce .woocommerce-cart-form .actions .submit-buttons .checkout-butt
 }
 
 #primary-menu.no-responsive>li>a {
-    color: rgb(78, 156, 152)
+    color: rgb(17, 223, 205)
 }
 
 #primary-menu.no-responsive>li:hover>a {
@@ -1782,7 +1782,7 @@ body .woocommerce .woocommerce-cart-form .actions .submit-buttons .checkout-butt
 }
 
 #site-header:not(.shrink) .header-colors-light:not(.header-layout-fullwidth_hamburger):not(.header-layout-overlay) #primary-menu.no-responsive>li>a {
-    color: rgb(78, 156, 152)
+    color: rgb(31, 255, 236)
 }
 
 #site-header:not(.shrink) .header-colors-light:not(.header-layout-fullwidth_hamburger) #primary-menu.no-responsive>li:hover>a {
